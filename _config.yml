@@ -1,0 +1,10 @@
+title: COMIPAR
+description: Coordinadora de la Migración Paraguaya
+email: comipar10@gmail.com
+baseurl: ""
+url: ""
+
+theme: minima
+
+plugins:
+  - jekyll-feed
